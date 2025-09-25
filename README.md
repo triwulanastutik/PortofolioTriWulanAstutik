@@ -4,13 +4,13 @@ Website ini merupakan portofolio pribadi Tri Wulan Astutik, mahasiswa Teknologi 
 Dibuat untuk memperkenalkan profil, pengalaman, keterampilan, dan proyek yang pernah dikerjakan.
 Seluruh halaman dirancang menggunakan HTML, CSS, dan JavaScript sebagai latihan pengembangan web dasar.
 
-📂 Struktur Folder
+Struktur Folder
 Portofolio-Wulan/
 ├─ index.html   # Halaman utama berisi seluruh konten
 ├─ style.css    # File gaya untuk tampilan website
 └─ script.js    # JavaScript untuk fitur interaktif (form testimoni)
 
-✨ Fitur Website
+Fitur Website
 
 Navigasi (Navbar): Menu untuk berpindah ke setiap bagian (Home, About, Projects, Skills, Experience, Contact, Testimoni).
 
@@ -32,7 +32,7 @@ Contact: Informasi kontak melalui email, Instagram, dan LinkedIn.
 
 Testimonials: Formulir bagi pengunjung untuk menulis komentar atau memberikan rating.
 
-⚡ Teknologi
+Teknologi
 
 HTML5 – Struktur halaman.
 
@@ -40,14 +40,14 @@ CSS3 – Desain dan tata letak.
 
 JavaScript – Menangani fitur interaktif seperti form testimoni.
 
-👩‍💻 Tentang Wulan
+Tentang Wulan
 
 Tri Wulan Astutik
 Mahasiswa Teknologi Informasi Universitas Jember
 Minat utama: Web Development, Data Analysis, dan Penelitian.
 
-📧 Email: triwulanast@gmail.com
+Email: triwulanast@gmail.com
 
-📷 Instagram: @triwulanastutik
+Instagram: @triwulanastutik
 
 💼 LinkedIn: Tri Wulan Astutik
